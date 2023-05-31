@@ -5,16 +5,13 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background: #222;
+    background: #9066e2a9; 
     font-size: 120%;
-    background-image: url(/img/himmel.jpg);
-    background-repeat:no-repeat;
-    background-size: 100%;
 
   }
    
    .card {
-    background: #000000d0;
+    background: #3a043b83;
     color: white;
     padding: 2em;
     border-radius: 30px;
@@ -88,4 +85,4 @@ body {
     left: 20px;
   }
 
-  
+ 
